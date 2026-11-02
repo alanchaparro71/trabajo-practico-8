@@ -65,18 +65,4 @@ La consigna pide declarar la ayuda recibida. Adaptá la tabla para que refleje f
 
 | Herramienta | Propósito | Prompt utilizado | Ajuste / edición | Aprendizaje |
 |---|---|---|---|---|
-| ChatGPT | Proponer requisitos, preguntas y sentencias SQL iniciales. | “Revisa el TP 8 usando la consigna y el proyecto de colección de videojuegos del TP 7, con 5 requisitos funcionales y 10 consultas SQL.” | Revisar las consultas en phpMyAdmin y adaptar las preguntas a las tablas reales. | Completar con lo aprendido sobre `WHERE`, `ORDER BY`, `JOIN`, `COUNT`, `SUM`, `AVG` y `GROUP BY`. |
-
-## 8. captura de pphpmyadmin
-pegar enlace de la imagen que esta en el repositorio 
-
-¿Qué tenés que hacer ahora?
-1. Descomprimí el ZIP.
-2. Comprobá que MySQL funcione en XAMPP.
-3. Abrí phpMyAdmin y seleccioná la base coleccion_videojuegos del TP 7.
-4. Ejecutá las consultas del archivo consultas.sql.
-5. Creá un repositorio público nuevo en GitHub, exclusivo para el TP 8, y subí README.md y consultas.sql.
-6. Entregá el enlace en Google Classroom.
-Importante: las consultas están escritas para las tablas del TP 7 que preparamos anteriormente. Si todavía no pudiste arrancar MySQL, no vas a poder probarlas hasta solucionar ese problema. Tampoco se ha creado el repositorio de GitHub por vos.
-
-La declaración de IA está incluida como borrador; completá la parte del aprendizaje según lo que realmente hayas entendido y verificado.
+| ChatGPT | Proponer requisitos, preguntas y sentencias SQL iniciales. | “Revisa el codigo sql del tp 8 y el proyecto de colección de videojuegos del TP 7.dime alguas funciones que puedo utilizar.” | Revisar las consultas en phpMyAdmin y adaptar las preguntas a las tablas reales. | Completar con lo aprendido sobre `WHERE`, `ORDER BY`, `JOIN`, `COUNT`, `SUM`, `AVG` y `GROUP BY`. |
